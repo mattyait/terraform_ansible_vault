@@ -25,6 +25,7 @@ Set the Ansible vault password env variable ANSIBLE_VAULT_PASSWORD
     export ANSIBLE_VAULT_PASSWORD=devops
     terraform init
     terraform plan
+    terraform apply
 
 ## Module extract-secret
 
